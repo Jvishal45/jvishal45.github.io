@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jvishal45.github.io/Jetkit/sitemap.xml
